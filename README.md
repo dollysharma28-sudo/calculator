@@ -1,5 +1,3 @@
-# calculator
-A calculator application built using HTML, CSS, and JavaScript as one of my initial projects, focusing on strengthening core frontend concepts and logic building
 # Calculator App
 
 A calculator application built using HTML, CSS, and JavaScript, created early in my learning journey to strengthen frontend concepts and logic building.
