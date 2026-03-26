@@ -14,3 +14,7 @@ A calculator application built using HTML, CSS, and JavaScript, created early in
 
 ## 📌 Purpose
 This project helped me improve my understanding of JavaScript logic and user interaction.
+
+
+## 🚀 Live Demo
+https://dollysharma28-sudo.github.io/calculator/
